@@ -9,20 +9,6 @@ Project Images:-
 ### Stock Data
 ![Stock Data](ScreenShots/stock_data.png)
 
-# App Demo Videos
-
-### Auto Stock Manage Demo
-[![Watch Video](https://img.icons8.com/fluency/48/000000/video.png)](App%20Demo%20Video/Auto%20Stock%20Manage%20Demo.mkv)
-
-### Software Demo
-[![Watch Video](https://img.icons8.com/fluency/48/000000/video.png)](App%20Demo%20Video/Software%20Demo.mkv)
-
-### Stock Data Autosave Feature Demo
-[![Watch Video](https://img.icons8.com/fluency/48/000000/video.png)](App%20Demo%20Video/Stock%20Data%20Autosave%20Feature%20Demo.mkv)
-
-### Images Saved with Descriptions
-[![Watch Video](https://img.icons8.com/fluency/48/000000/video.png)](App%20Demo%20Video/images%20saved%20with%20descriptions.mkv)
-
 
 
 
@@ -35,4 +21,21 @@ Project Images:-
 
 ### Invoice Format
 ![Invoice Format](ScreenShots/invoice%20format.jpeg)
+
+
+# App Demo Videos
+### Stock Data Autosave Feature Demo
+[![Watch Video](https://img.icons8.com/fluency/48/000000/video.png)](App%20Demo%20Video/Stock%20Data%20Autosave%20Feature%20Demo.mkv)
+
+### Auto Stock Manage Demo
+[![Watch Video](https://img.icons8.com/fluency/48/000000/video.png)](App%20Demo%20Video/Auto%20Stock%20Manage%20Demo.mkv)
+
+### Software Demo
+[![Watch Video](https://img.icons8.com/fluency/48/000000/video.png)](App%20Demo%20Video/Software%20Demo.mkv)
+
+
+### Images Saved with Descriptions
+[![Watch Video](https://img.icons8.com/fluency/48/000000/video.png)](App%20Demo%20Video/images%20saved%20with%20descriptions.mkv)
+
+
 
