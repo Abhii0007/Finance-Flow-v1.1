@@ -2,23 +2,20 @@
 Finance Flow software is a fully functional easy to use retailing and stock management software. automatically manages the stocks and transactions during Tax Invoice shipments and services.
 
 
+Project Images:-
+### Stock Images
+![Stock Images](ScreenShots/stock_images.png)
 
+### Stock Data
+![Stock Data](ScreenShots/stock_data.png)
 
-# Finance Flow v1.1
-
-## Screenshots
+### Sales
+![Sales](ScreenShots/Sales.png)
 
 ### Invoice
 ![Invoice](ScreenShots/Invoice.png)
 
-### Sales
-![Sales](Screenshots/Sales.png)
 
 ### Invoice Format
-![Invoice Format](Screenshots/invoice%20format.jpeg)
+![Invoice Format](ScreenShots/invoice%20format.jpeg)
 
-### Stock Data
-![Stock Data](Screenshots/stock_data.png)
-
-### Stock Images
-![Stock Images](Screenshots/stock_images.png)
