@@ -9,7 +9,7 @@ Finance Flow software is a fully functional easy to use retailing and stock mana
 ## Screenshots
 
 ### Invoice
-![Invoice](Screenshots/Invoice.png)
+![Invoice](ScreenShots/Invoice.png)
 
 ### Sales
 ![Sales](Screenshots/Sales.png)
